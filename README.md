@@ -1,12 +1,20 @@
-# Project Task Tracker
+# Task Tracker
 Task Tracker Web App.
 
-## Table of contents
-1. Introduction
-2. Technologies
-3. Project status
-4. Installation
-5. License
+- [Task Tracker](#task-tracker)
+  - [Introduction](#introduction)
+    - [JSON server](#json-server)
+    - [Development server](#development-server)
+    - [Code scaffolding](#code-scaffolding)
+    - [Build](#build)
+    - [Running unit tests](#running-unit-tests)
+    - [Running end-to-end tests](#running-end-to-end-tests)
+    - [Further help](#further-help)
+  - [Technologies](#technologies)
+  - [Project status](#project-status)
+  - [Installation](#installation)
+    - [Get repository](#get-repository)
+  - [License](#license)
 
 ## Introduction
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
