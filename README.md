@@ -1,5 +1,5 @@
 # Task Tracker
-Task Tracker Web App.
+Task Tracker Web Application.
 
 - [Task Tracker](#task-tracker)
   - [Introduction](#introduction)
