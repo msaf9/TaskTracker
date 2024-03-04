@@ -1,5 +1,7 @@
-# Task Tracker
+<h1>Task Tracker</h1>
 Task Tracker Web Application.
+
+<h2>Table of contents</h2>
 
 - [Task Tracker](#task-tracker)
   - [Introduction](#introduction)
@@ -10,7 +12,7 @@ Task Tracker Web Application.
     - [Running unit tests](#running-unit-tests)
     - [Running end-to-end tests](#running-end-to-end-tests)
     - [Further help](#further-help)
-  - [Technologies](#technologies)
+  - [Framework](#framework)
   - [Project status](#project-status)
   - [Installation](#installation)
     - [Get repository](#get-repository)
@@ -40,7 +42,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ### Further help
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-## Technologies
+## Framework
 - Angular
 
 ## Project status
